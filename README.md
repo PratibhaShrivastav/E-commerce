@@ -1,2 +1,1 @@
-# Note taking application
-Nodejs note taking application
+# Note Taking Application
