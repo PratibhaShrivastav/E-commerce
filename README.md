@@ -1,2 +1,2 @@
-# E-commerce
-E-commerce using nodejs
+# Note taking application
+Nodejs note taking application
